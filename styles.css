@@ -230,14 +230,8 @@
     color: gray;
   }
   
-  @media (max-width:1000px) {
+  @media (max-width:600px) {
     html {
       font-size: 10px;
-    }
-  }
-  
-  @media (max-width:500px) {
-    html {
-      font-size: 5px;
     }
   }
